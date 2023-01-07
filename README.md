@@ -6,3 +6,6 @@ The order in which the notebooks were written:
 - Van_der_ven_filters (then went back to a section for filtering_basics)
 - funcs.py (consolidated some functions for convenience)
 - filtering_spectrum 
+- alternate_decompositions
+- boundaries
+- density-spice
